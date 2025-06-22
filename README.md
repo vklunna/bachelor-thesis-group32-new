@@ -1,0 +1,73 @@
+# ESRS / CSRD Cross-Reference Extractor 
+**Python 3.11 | macOS tested**
+
+Automates the extraction of ESRS / CSRD cross-reference tables inside annual-report PDFs.  
+• Finds the most likely pages • Crops them neatly • Extracts & standardises them to CSV
+
+---
+
+## Key features
+
+* One-click pipeline — run three notebooks in order → get analysis-ready CSVs  
+* No API keys — everything runs locally  
+* Smart page scoring — detect where ESRS tables hide  
+* Visual preview of cropped pages  
+* Isolated env (`.venv`) keeps system Python untouched  
+
+---
+
+
+## Installation (macOS · Python 3.11.5)
+
+```bash
+git clone https://github.com/vklunna/bachelor-thesis-group32.git
+cd bachelor-thesis-group32
+
+python3 -m venv .venv
+source .venv/bin/activate          # zsh / bash
+
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+## Quick start
+
+1. Copy a PDF into 0_data/
+   
+
+2. Load these notebooks (kernel → “Python (.venv)”)
+
+   * `2_output/step1-extractedpages.ipynb`
+   * `2_output/stage2A.ipynb`
+   * `2_output/stage_2B.ipynb`
+   * `2_output/stage_3.ipynb`
+
+3. Find your tidy CSVs  
+
+   * `2_output/standardized_merged_by_company/<company>.csv`
+   
+
+
+## Notebook guide — what each stage does
+
+1. **`step1-extractedpages.ipynb`**  
+    - Loads a PDF from `0_data/` and converts every page to clean text.
+    - Counts ESRS-style disclosure codes, entity-specific codes, and a keyword hit-list; detects table-like layouts.
+    - Scores each page with a weighted formula and sorts by total score.
+    - Crops the original PDF to that range and saves it as `0_data/cropped_pdf/<name>_c.pdf`.
+
+2. **`stage2A.ipynb`**  
+    - Opens the cropped PDF from `0_data/cropped_pdf/` and walks through every page in the specified range.  
+    - Extracts all table objects, then filters rows whose first cell matches an ESRS code pattern (e.g., `E1-1`, `S2-3`, `BP-1`, etc.).  
+    - **Output:** one raw CSV per company `2_output/extracted_tables/<company>.csv` plus a log that lists pages where tables were found.
+
+3. **`stage_2B.ipynb`**  
+   - Cleans & normalises the raw rows  
+   - Unifies code strings, parses page refs, fixes headers  
+   - **Output:** `2_output/filtered_table/<company>.csv`
+
+4. **`stage3_standardisation.ipynb`**   
+   - Final column mapping & deeper normalisation  
+   - Merges multi-page refs, deduplicates rows, runs consistency checks  
+   - **Output:** `2_output/standardized_merged_by_company/<company>.csv`
+
