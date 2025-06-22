@@ -13,7 +13,9 @@ import argparse
 # Patterns and helper definitions
 
 DR_pattern = re.compile(
-    r"\b(?:ESRS\s*)?(?:[EGS]\d+|GOV|SBM|BP|SMB|IRO|MDR|S\d+|S\d+-\d+)\b",
+    r"\b(?:ESRS\s*)?(?:[EGS](?:\d+(?:[-–]\d+)?)?|GOV|SBM|BP|SMB|IRO|MDR)"
+    r"(?:[\s\-–]+(?:ESRS\s*)?(?:[EGS](?:\d+(?:[-–]\d+)?)?|GOV|SBM|BP|SMB|IRO|MDR))*"
+    r"\b",
     re.IGNORECASE
 )
 EU_pattern = re.compile(

@@ -7,9 +7,9 @@ from libraries.imports import *
 
 #DR pattern that should be met under DR column
 DR_pattern = re.compile(
-    r"\b(?:ESRS\s*)?(?:[EGS]\d+|GOV|SBM|BP|SMB|IRO|MDR|S\d+|S\d+-\d+)"
-    r"(?:[\s\-–]+(?:ESRS\s*)?(?:[EGS]\d+|GOV|SBM|BP|SMB|IRO|MDR|S\d+))*"
-    r"(?:[\s\-–]+\d+)?\b",
+    r"\b(?:ESRS\s*)?(?:[EGS](?:\d+(?:[-–]\d+)?)?|GOV|SBM|BP|SMB|IRO|MDR)"
+    r"(?:[\s\-–]+(?:ESRS\s*)?(?:[EGS](?:\d+(?:[-–]\d+)?)?|GOV|SBM|BP|SMB|IRO|MDR))*"
+    r"\b",
     re.IGNORECASE
 )
 
