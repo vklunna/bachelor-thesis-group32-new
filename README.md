@@ -27,7 +27,7 @@ python3 -m venv .venv
 source .venv/bin/activate          # zsh / bash
 
 pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
 ```
 
 ## Quick start
