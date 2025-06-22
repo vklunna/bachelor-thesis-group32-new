@@ -28,7 +28,16 @@ source .venv/bin/activate          # zsh / bash
 
 pip install --upgrade pip
 pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
+
 ```
+### Connect to Drive to laod training sample
+1. Manually copy your credentials.json file into the following folder:
+`/bachelor-thesis-group32-folder/1_code/`
+
+2.	Then run the following script to connect and load the files:
+`python3 ./bachelor-thesis-group32-folder/1_code/LOADING_IN_MEMORY.py`
+
+
 
 ## Quick start
 
