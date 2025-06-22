@@ -1,0 +1,20 @@
+# Ignore Python environment folders
+venv/
+.env/
+
+# Ignore Jupyter checkpoints and bytecode
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore PDFs anywhere
+*.pdf
+
+# Ignore your raw PDF folder
+0_data/pdfs/
+
+# Ignore any secrets/configs
+*.env
+*.json
+*.key
+*.pem
