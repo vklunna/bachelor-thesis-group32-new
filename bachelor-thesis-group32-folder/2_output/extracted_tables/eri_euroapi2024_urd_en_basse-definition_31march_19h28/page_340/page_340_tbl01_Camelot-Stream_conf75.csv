@@ -1,0 +1,51 @@
+0,1,2,3,4,5
+ESRS Disclosure requirement,,,,,
+ESRS,DR,Topics,Section,Page,Partially or non-disclosed
+BP,BP1,"General basis for preparation of sustainability 
+statements","5.1.1-General 
+information",232,
+BP,BP2,Disclosures in relation to specific circumstances,"5.1.1-General 
+information",232,
+GOV,GOV1,"The role of the administrative, management and 
+supervisory bodies",5.1.2-ESG Governance,240,
+GOV,GOV2,"Information provided to and sustainability matters 
+addressed by the undertaking’s administrative,",5.1.2-ESG Governance,241,
+,,management and supervisory bodies,,,
+GOV,GOV3,Incentive schemes,5.1.2-ESG Governance,241,
+GOV,GOV4,Statement on due diligence,5.1.2-ESG Governance,242,
+GOV,GOV5,Risk management and internal controls,5.1.2-ESG Governance,242,
+SBM,SBM-1,"Strategy, business model and value chain",5.1.3-Strategy,244,
+SBM,SBM-2,Interests and views of stakeholders,5.1.3-Strategy,250,
+SBM,SBM-3,"Impacts, risks, opportunities",5.1.3-Strategy,,"S1.SBM-3 14e (o) / 14fi (o) / 
+14gi (o)/ S1-6 50f (o)"
+,,,,253,"S2.SBM-3 11a,e /12/13"
+,,,,,S4.SBM-3 09
+IRO,IRO-1,"Process to identify and assess material impacts, 
+risks and opportunities",5.1.3-Strategy,253,E1.IRO-1 16d
+IRO,IRO-2,"ESRS covered by the undertaking’s sustainability 
+statement",5.1.3-Strategy,340,
+E1,E1-1,Transition plan for Climate Change mitigation,5.2.2-Climate change,267,
+E1,E1-2,Policies,"5.2.1-Environmental 
+policy and governance",259,
+E1,E1-3,Actions and resources,5.2.2-Climate change,267,
+E1,E1-4,Target related to climate change,5.2.2-Climate change,267,
+E1,E1-5,Energy consumption,5.2.2-Climate change,270,
+E1,E1-6,GHG emissions,5.2.2-Climate change,269,
+E1,E1-7,GHG removals,5.2.2-Climate change,267,"DR 56, 58 - No GHG"
+,,,,,removals in our actitivy
+E1,E1-8,Internal carbon pricing,5.2.2-Climate change,269,
+E2,E2-1,Policies related to pollution,"5.2.1-Environmental 
+policy and governance",259,
+,,,5.2.3-Pollution,,
+E2,E2-2,Actions and resources,5.2.3-Pollution,271,
+E2,E2-3,Targets related to pollution,No target set,239,E2-3 MDR-T
+E2,E2-4,"Pollution of air, water and soil",5.2.3-Pollution,259,E2-4 28a
+E2,E2-5,Substances of concerns,5.2.3-Pollution,273,
+E2,E2-6,Expenditures,5.2.3-Pollution,273,
+E3,E3-1,Policies related to water,"5.2.1-Environmental 
+policy and governance",259,E3-1 12a à 12c
+E3,E3-2,"Actions and resources in relation to areas at water 
+risk",5.2.4-Water stewardship,275,
+E3,E3-3,Target in relation to water,No target set,239,E3-3 23a-c
+E3,E3-4,Water usage,5.2.4-Water stewardship,275,
+E4,E4-1,Transition plan for biodiversity mitigation,5.2.5 -Biodiversity,276,

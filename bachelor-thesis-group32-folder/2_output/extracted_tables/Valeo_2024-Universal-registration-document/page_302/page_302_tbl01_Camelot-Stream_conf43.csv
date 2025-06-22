@@ -1,0 +1,57 @@
+0,1,2,3,4,5,6,7,8
+Disclosure,Data,,SFDR,Pillar 3,"Benchmark 
+Regulation","EU Climate 
+Law",,
+Requirement,points,,reference,reference,reference,reference,Section,Page
+ESRS E1-9,"66 (a); 
+66 (c)","Disaggregation of monetary amounts 
+by acute and chronic physical risk",,,,,,
+,,"Location of significant assets 
+at material physical risk",,x,,,4.2.3.11,236
+ESRS E1-9,67 (c),"Breakdown of the carrying value 
+of the undertaking's real estate",,,,,,
+,,assets by energy-efficiency classes,,x,,,4.2.3.11,236
+ESRS E1-9,69,"Degree of exposure of the portfolio 
+to climate-related opportunities",,,x,,4.2.3.11,236
+ESRS IRO-1 E2,,"Description of the processes 
+to identify and assess material",,,,,,
+,,"pollution-related impacts, risks 
+and opportunities",,,,,4.2.4.1,236
+ESRS E2-1,,Policies related to pollution,,,,,4.2.4.2,237
+ESRS E2-2,,"Actions and resources related 
+to pollution",,,,,4.2.4.3,239
+ESRS E2-3,,Targets related to pollution,,,,,4.2.4.4,241
+ESRS E2-4,,"Pollution of air, water and soil",,,,,4.2.4.5,242
+ESRS E2-4,28,"Amount of each pollutant listed 
+in Annex II of the E-PRTR Regulation",,,,,,
+,,"(European Pollutant Release and 
+Transfer Register) emitted to air,",,,,,,
+,,water and soil,x,,,,4.2.4.5,242
+ESRS E2-5,,"Substances of concern and 
+substances of very high concern",,,,,4.2.4.6,243
+ESRS E2-6,,"Anticipated financial effects 
+from pollution-related impacts,",,,,,,
+,,risks and opportunities,,,,,4.2.4.7,244
+ESRS IRO-1 E3,,"Description of the processes to 
+identify and assess material water",,,,,,
+,,"and marine resources-related 
+impacts, risks and opportunities",,,,,4.2.5.1,244
+ESRS E3-1,,"Policies related to water 
+and marine resources",,,,,4.2.5.2,245
+ESRS E3-1,9,Water and marine resources,x,,,,4.2.5.2,245
+ESRS E3-1,13,Dedicated policy,x,,,,4.2.5.2,245
+ESRS E3-1,14,Sustainable oceans and seas,x,,,,"Not 
+applicable",
+ESRS E3-2,,"Actions and resources related 
+to water and marine resources",,,,,4.2.5.3,246
+ESRS E3-3,,"Targets related to water 
+and marine resources",,,,,4.2.5.4,247
+ESRS E3-4,,Number of accidents with lost time,,,,,4.2.5.5,247
+ESRS E3-4,28 (c),"Total percentage of water recycled 
+and reused",x,,,,4.2.5.5,247
+ESRS E3-4,29,"Total water consumption in m3 
+per net revenue on own operations",x,,,,4.2.5.5,247
+ESRS E3-5,,"Anticipated financial effects 
+from water and marine",,,,,,
+,,"resources-related impacts, 
+risks and opportunities",,,,,4.2.5.6,248

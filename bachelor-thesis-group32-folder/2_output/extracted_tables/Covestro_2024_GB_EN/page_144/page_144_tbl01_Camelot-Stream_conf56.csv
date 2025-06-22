@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6,7,8
+List of datapoints in cross-cutting and topical standards that derive from other EU legislation,,,,,,,,
+List of datapoints in cross-cutting and topical standards that derive from other EU legislation,,,,,,,,
+"Disclosure 
+Requirement",Datapoint,Name of datapoint,SFDR1,Pillar 3,"Benchmark 
+Regulation",Law,EU Climate,Section in Group Sustainability Statement
+ESRS 2 GOV-1,21 (d),Board's gender diversity,X,,X,,,"Governance – The Role of the Administrative, 
+Management and Supervisory Bodies"
+ESRS 2 GOV-1,21 (e),Percentage of board members who are independent,,,X,,,"Governance – The Role of the Administrative, 
+Management and Supervisory Bodies"
+ESRS 2 GOV-4,30,Statement on due diligence,X,,,,,Governance – Statement on Due Diligence
+ESRS 2 SBM-1,40 (d) i,Involvement in activities related to fossil fuel activities,X,X,X,,,"Strategy – United Nations Sustainable Development Goals 
+(SDGs)"
+ESRS 2 SBM-1,40 (d) ii,Involvement in activities related to chemical production,X,,X,,,Non-material datapoint
+ESRS 2 SBM-1,40 (d) iii,"Involvement in activities related to controversial 
+weapons",X,,X,,,Non-material datapoint
+ESRS 2 SBM-1,40 (d) iv,"Involvement in activities related to cultivation and 
+production of tobacco",,,X,,,Non-material datapoint
+ESRS E1-1,14,Transition plan to reach climate neutrality by 2050,,,,,X,"ESRS E1: Climate Change – Our Transition Plan for 
+Climate Change Mitigation"
+ESRS E1-1,16 (g),Undertakings excluded from Paris-aligned Benchmarks,,X,X,,,"ESRS E1: Climate Change – Our Transition Plan for 
+Climate Change Mitigation"
+ESRS E1-4,34,GHG emission reduction targets,X,X,X,,,ESRS E1: Climate Change – Targets
+ESRS E1-5,38,"Energy consumption from fossil sources disaggregated 
+by sources (only high climate impact sectors)",X,,,,,ESRS E1: Climate Change – Energy Usage
+ESRS E1-5,37,Energy consumption and mix,X,,,,,ESRS E1: Climate Change – Energy Usage
+ESRS E1-5,40 bis 43,"Energy intensity associated with activities in high 
+climate impact sectors",X,,,,,ESRS E1: Climate Change – Energy Usage
+ESRS E1-6,44,"Gross Scope 1, 2, 3 and Total GHG emissions",X,X,X,,,ESRS E1: Climate Change – Greenhouse Gas Emissions
+ESRS E1-6,53 bis 55,Gross GHG emissions intensity,X,X,X,,,ESRS E1: Climate Change – Greenhouse Gas Emissions
+ESRS E1-7,56,GHG removals and carbon credits,,,,,X,ESRS E1: Climate Change – Greenhouse Gas Emissions
+ESRS E1-9,66,"Exposure of the benchmark portfolio to climate-related 
+physical risks",,,X,,,ESRS E1: Climate Change – Anticipated Financial Effects
+ESRS E1-9,66a,"Disaggregation of monetary amounts by acute and 
+chronic physical risk",,X,,,,ESRS E1: Climate Change – Anticipated Financial Effects
+ESRS E1-9,66c,Location of significant assets at material physical risk,,X,,,,ESRS E1: Climate Change – Anticipated Financial Effects
+ESRS E1-9,67 (c),"Breakdown of the carrying value of its real estate assets 
+by energy-efficiency classes",,X,,,,ESRS E1: Climate Change – Anticipated Financial Effects
+ESRS E1-9,69,"Degree of exposure of the portfolio to climaterelated 
+opportunities",,,X,,,ESRS E1: Climate Change – Anticipated Financial Effects
+ESRS E2-4,28,"Amount of each pollutant listed in Annex II of the E 
+PRTR Regulation (European Pollutant Release and",X,,,,,ESRS E2: Pollution – Metrics
+,,"Transfer Register) emitted to air, water and soil",,,,,,
+ESRS E3-1,9,Water and marine resources,X,,,,,ESRS E3: Water and Marine Resources – Water Program
+ESRS E3-1,13,Dedicated policy,X,,,,,ESRS E3: Water and Marine Resources – Water Program

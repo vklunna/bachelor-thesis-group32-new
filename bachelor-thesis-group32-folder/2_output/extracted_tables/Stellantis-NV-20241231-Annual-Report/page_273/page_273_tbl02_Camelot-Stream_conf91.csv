@@ -1,0 +1,56 @@
+0,1,2,3,4
+,"This table includes all of the data points that derive from other EU legislation as listed in ESRS 2 appendix B,",,,
+"indicating where the data points can be found in our report and which data points are assessed as Not material (NM), as Not",,,,
+applicable (NA) or related to a “Phased-in” Disclosure requirement.,,,,
+Disclosure,Paragraph,Disclosure Requirement and related datapoint,EU legislation,Section
+Requirement,,,,page
+ESRS 2 GOV-1,21 (d),Board's gender diversity,"SFDR, CBSR",95
+ESRS 2 GOV-1,21 (e),Percentage of board members who are independent,CBSR,95
+ESRS 2 GOV-4,30,Statement on due diligence,SFDR,177
+ESRS 2 SBM-1,40 (d) i,Involvement in activities related to fossil fuel activities,"SFRD, P3, 
+CBSR",NA
+ESRS 2 SBM-1,40 (d) ii,Involvement in activities related to chemical production,"SFRD, CBSR",NA
+ESRS 2 SBM-1,40 (d) iii,Involvement in activities related to controversial weapons,"SFRD, CBSR",NA
+ESRS 2 SBM-1,40 (d) iv,Involvement in activities related to cultivation and production of tobacco,"SFRD, CBSR",NA
+ESRS E1-1,14,Transition plan to reach climate neutrality by 2050,EUCL,196
+ESRS E1-1,16 (g),Undertakings excluded from Paris-aligned Benchmarks paragraph,"P3, CBSR",196
+ESRS E1-4,34,GHG emission reduction targets,"SFDR, P3, 
+CBSR",205
+ESRS E1-5,38,Energy consumption from fossil sources disaggregated by sources,SFDR,207
+ESRS E1-5,37,Energy consumption and mix,SFDR,207
+ESRS E1-5,40 to 43,Energy intensity associated with activities in high climate impact sectors,SFDR,207
+ESRS E1-6,44,"Gross Scope 1, 2, 3 and Total GHG emissions","SFDR, P3, 
+CBSR",208
+ESRS E1-6,53 to 55,Gross GHG emissions intensity,"SFDR, P3, 
+CBSR",208
+ESRS E1-7,56,GHG removals and carbon credits,EUCL,210
+ESRS E1-9,66,Exposure of the benchmark portfolio to climate-related physical risks,CBSR,Phased-in
+ESRS E1-9,66 (a),Disaggregation of monetary amounts by acute and chronic physical risk,P3,Phased-in
+ESRS E1-9,66 (c),Location of significant assets at material physical risk,P3,Phased-in
+ESRS E1-9,67 (c),Breakdown of the carrying value of its real estate assets by energy-efficiency classes,P3,Phased-in
+ESRS E1-9,69,Degree of exposure of the portfolio to climate- related opportunities,CBSR,Phased-in
+ESRS E2-4,28,Amount of each pollutant listed in Annex II of the E-PRTR Regulation (European,SFDR,NM
+,,"Pollutant Release and Transfer Register) emitted to air, water and soil",,
+ESRS E3-1,9,Water and marine resources policies,SFDR,214
+ESRS E3-1,13,Dedicated Policy,SFDR,NA
+ESRS E3-1,14,Sustainable oceans and seas,SFDR,NM
+ESRS E3-4,28 (c),Total water recycled and reused,SFDR,216
+ESRS E3-4,29,Total water consumption in m3 per net revenue on own operations,SFDR,216
+ESRS2- IRO 1 - E4,16 (a)i,Activities negatively affecting biodiversity-sensitive areas,SFDR,183
+ESRS2- IRO 1 - E4,16 (b),"Land degradation, desertification, or soil sealing",SFDR,183
+ESRS2- IRO 1 - E4,16 (c),Threatened species,SFDR,183
+ESRS E4-2,24 (b),Sustainable land / agriculture practices or policies,SFDR,NM
+ESRS E4-2,24 (c),Sustainable oceans / seas practices or policies,SFDR,NM
+ESRS E4-2,24 (d),Policies to address deforestation,SFDR,NM
+ESRS E5-5,37 (d),Non-recycled waste,SFDR,NM
+ESRS E5-5,39,Hazardous waste and radioactive waste,SFDR,NM
+ESRS 2- SBM3 - S1,14 (f),Risk of incidents of forced labor,SFDR,226
+ESRS 2- SBM3 - S1,14 (g),Risk of incidents of child labor,SFDR,"226, 230"
+ESRS S1-1,20,Human rights policy commitments,SFDR,224
+ESRS S1-1,21,Due diligence policies on issues addressed by the fundamental ILO Conventions 1 to 8,CBSR,229
+ESRS S1-1,22,Processes and measures for preventing trafficking in human beings,SFDR,"224, 230"
+ESRS S1-1,23,Workplace accident prevention policy or management system,SFDR,"224, 235"
+ESRS S1-3,32 (c),Grievance/complaints handling mechanisms,SFDR,226
+ESRS S1-14,88 (b) 88 (c),Number of fatalities and number and rate of work- related accidents,"SFDR, CBSR",238
+ESRS S1-14,88 (e),"Number of days lost to injuries, accidents, fatalities or illness",SFDR,238
+ESRS S1-16,97 (a),Unadjusted gender pay gap,"SFDR, CBSR",234

@@ -1,0 +1,60 @@
+0,1,2,3
+ESRS,Disclosure requirement,Section within,Section
+,,Annual Report,page
+"ESRS 2, IRO-1","Description of the processes to identify and assess material pollution-related impacts, risks and 
+opportunities",Sustainability Statement,"183, 211"
+E2-1,Policies related to pollution,Sustainability Statement,212
+E2-2,Actions and resources related to pollution,Sustainability Statement,212
+E2-3,Targets related to pollution,Sustainability Statement,212
+E2-4,"Pollution of air, water and soil",Sustainability Statement,NM(1)
+E2-5,Substances of concern and substances of very high concerns,Sustainability Statement,213
+E2-6,Anticipated financial effects from pollution-related risks and opportunities,,Phased-in
+ESRS E3 · Water & Marine Resources,,,
+"ESRS 2, IRO-1","Description of the processes to identify and assess material water and marine resources-related 
+impacts, risks and opportunities",Sustainability Statement,"183, 213"
+E3-1,Policies related to water and marine resources,Sustainability Statement,214
+E3-2,Actions and resources related to water and marine resources,Sustainability Statement,215
+E3-3,Targets related to water and marine resources,Sustainability Statement,215
+Entity-specific,Total water withdrawal normalized,Sustainability Statement,215
+Entity-specific,Normalized withdrawal rate in water-stressed areas,Sustainability Statement,215
+E3-4,Water consumption,Sustainability Statement,216
+Entity-specific,Water withdrawal,Sustainability Statement,216
+Entity-specific,Total water withdrawal in water-stressed areas,Sustainability Statement,216
+E3-5,Anticipated financial effects from pollution-related risks and opportunities,,Phased-in
+ESRS E4 · Biodiversity and ecosystems,,,
+"ESRS 2, IRO-1","Description of the processes to identify and assess material biodiversity and ecosystem-related 
+impacts, risks and opportunities",Sustainability Statement,183
+ESRS E5 · Resource use and circular economy,,,
+"ESRS 2, IRO-1","Description of the processes to identify and assess material resource use and circular economy-related 
+impacts, risks and opportunities",Sustainability Statement,"183, 217"
+E5-1,Policies related to resource use and circular economy,Sustainability Statement,218
+E5-2,Actions and resources related to resource use and circular economy,Sustainability Statement,219
+Entity-specific,Percentage of ELVs material recycled,Sustainability Statement,222
+Entity-specific,Number of repair centers,Sustainability Statement,222
+E5-3,Targets related to resource use and circular economy,Sustainability Statement,222
+E5-4,Resource inflows,Sustainability Statement,222
+E5-5,Resource outflows,Sustainability Statement,222
+E5-6,"Anticipated financial effects from material resource use and circular economy-related risks and 
+opportunities",,Phased-in
+ESRS S1 · Own workforce,,,
+"ESRS 2, SBM-2",Interests and views of stakeholders,Sustainability Statement,"182, 226,  
+232"
+"ESRS 2, SBM-3","Material impacts, risks and opportunities and their interaction with strategy and business model",Sustainability Statement,224
+S1-1,Policies related to own workforce,Sustainability Statement,224
+S1-2,Processes for engaging with own workers and workers’ representatives about impacts,Sustainability Statement,226
+S1-3,Processes to remediate negative impacts and channels for own workers to raise concerns,Sustainability Statement,226
+S1-4,"Taking action on material impacts on own workforce, and approaches to mitigating material risks and",Sustainability Statement,"227, 230, 
+231, 233,"
+,"pursuing material opportunities related to own workforce, and effectiveness of those actions",,"235, 239, 240"
+Entity-specific,Reskilling/Upskilling rate for 24h completion on technical training,Sustainability Statement,240
+Entity-specific,Tech mobility related training rate,Sustainability Statement,240
+Entity-specific,Spending in training,Sustainability Statement,240
+Entity-specific,Total number of employees trained,Sustainability Statement,240
+Entity-specific,Number of training hours provided,Sustainability Statement,240
+Entity-specific,Number of employees trained on climate school in 2024,Sustainability Statement,240
+Entity-specific,Number of employees trained on electrification-related topics (upskill/reskill),Sustainability Statement,240
+Entity-specific,Number of employees trained through the Data & Software Academy in 2024,Sustainability Statement,240
+Entity-specific,Number of employees trained on TechXelerate program in 2024,Sustainability Statement,240
+S1-5,"Targets related to managing material negative impacts, advancing positive impacts, and managing",Sustainability Statement,"227, 231, 
+232, 237,"
+,material risks and opportunities,,"239, 240,"
