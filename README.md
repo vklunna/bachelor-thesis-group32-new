@@ -30,7 +30,7 @@ pip install --upgrade pip
 pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
 
 ```
-### Connect to Drive to load training sample
+### Connect to Drive to load PDF Files
 1. Manually copy your credentials.json file into the following folder:
 `/bachelor-thesis-group32-folder/1_code/`
 
