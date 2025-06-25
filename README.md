@@ -39,29 +39,24 @@ pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
 
 
 
-## Quick start
+## Quick Start
 
-1. Copy a PDF into 0_data/
-   
+1. **Copy a PDF** into the `0_data/` folder.
 
-2. Load these notebooks (kernel → “Python (.venv)”)
+2. **Load the following notebooks**  
+   *(Make sure to select kernel → “Python (.venv)”)*
+   - `2_output/step1-extractedpages.ipynb`
+   - `2_output/stage2A.ipynb`
+   - `2_output/stage_2B.ipynb`
+   - `2_output/stage_3.ipynb`
 
-   * `2_output/step1-extractedpages.ipynb`
-   * `2_output/stage2A.ipynb`
-   * `2_output/stage_2B.ipynb`
-   * `2_output/stage_3.ipynb`
+3. **Find your tidy output CSV:**  
+   - `2_output/standardized_merged_by_company/<company>.csv`
 
-3. Find your tidy CSVs  
-
-   * `2_output/standardized_merged_by_company/<company>.csv`
-  
-4. Optional: Extract Full Disclosure Content (Stage 4)
-
-If you want to see the actual ESG text paragraphs linked to each ESRS code:
-
-   * `Run 2_output/stage4.ipynb`
-   
-This will generate a file with the full paragraph content for each matched reference
+4. **(Optional) Extract Full ESG Disclosure Content**  
+   To retrieve the actual ESG text paragraphs linked to each ESRS code:
+   - Run: `2_output/stage4.ipynb`  
+   - This will generate a file with paragraph-level content for each matched disclosure reference.
    
 
 
