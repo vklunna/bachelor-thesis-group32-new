@@ -83,3 +83,10 @@ pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
    - Merges multi-page refs, deduplicates rows, runs consistency checks  
    - **Output:** `2_output/standardized_merged_by_company/<company>.csv`
 
+5. **`stage4.ipynb`**   
+   - Reads the standardised table and opens the original PDF  
+   - Retrieves and normalises the full page text around each ESRS reference
+   - Extracts paragraph-level disclosure evidence based on page numbers and keywords 
+   - **Output:** `2_output/extracted_text/<company>_extracted_text_only.csv`
+   
+
