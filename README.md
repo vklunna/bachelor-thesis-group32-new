@@ -59,7 +59,7 @@ pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
 
 If you want to see the actual ESG text paragraphs linked to each ESRS code:
 
- * `Run 2_output/stage4.ipynb`
+   * `Run 2_output/stage4.ipynb`
    
 This will generate a file with the full paragraph content for each matched reference
    
