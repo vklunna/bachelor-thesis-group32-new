@@ -8,7 +8,7 @@ Automates the extraction of ESRS / CSRD cross-reference tables inside annual-rep
 
 ## Key features
 
-* One-click pipeline — run three notebooks in order → get analysis-ready CSVs  
+* One-click pipeline — run 4 notebooks in order → get analysis-ready CSVs and .TXT
 * No API keys — everything runs locally  
 * Smart page scoring — detect where ESRS tables hide  
 * Visual preview of cropped pages  
@@ -20,7 +20,7 @@ Automates the extraction of ESRS / CSRD cross-reference tables inside annual-rep
 ## Installation (macOS · Python 3.11.5)
 
 ```bash
-git clone https://github.com/vklunna/bachelor-thesis-group32.git
+git clone https://github.com/vklunna/bachelor-thesis-group32.git do we need new repository name here?
 cd bachelor-thesis-group32
 
 python3 -m venv .venv
@@ -31,7 +31,7 @@ pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
 
 ```
 ### Connect to Drive to load PDF Files
-1. Manually copy your credentials.json file into the following folder:
+1. Manually upload your credentials.json file into the following folder:
 `/bachelor-thesis-group32-folder/1_code/`
 
 2.	Then run the following script to connect and load the file:
@@ -48,12 +48,12 @@ pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
    - `2_output/step1-extractedpages.ipynb`
    - `2_output/stage2A.ipynb`
    - `2_output/stage_2B.ipynb`
-   - `2_output/stage_3.ipynb`
+   - `2_output/stage_3.ipynb` pls add step 4
 
 3. **Find your tidy output CSV:**  
    - `2_output/standardized_merged_by_company/<company>.csv`
 
-4. **(Optional) Extract Full ESG Disclosure Content**  
+4. **(Optional) Extract Full ESG Disclosure Content**  pls do not make it optional 
    To retrieve the actual ESG text paragraphs linked to each ESRS code:
    - Run: `2_output/stage4.ipynb`  
    - This will generate a file with paragraph-level content for each matched disclosure reference.
