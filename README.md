@@ -51,11 +51,12 @@ pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
    - `2_output/stage3_standardization.py`
    - `2_output/stage4.ipynb`
 
+
 3. **Standardized Table:**  
    - `2_output/standardized_merged_by_company/<company>.csv`
 
 4. **Extracted ESG Disclosure Content:**  
-   - `2_output/extracted_text/<company>_extracted_text_only.txt
+   - `2_output/extracted_text/<company>_extracted_text_only.txt`
 
 
 ## Notebook guide — what each stage does
