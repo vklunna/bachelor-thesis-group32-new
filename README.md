@@ -48,16 +48,14 @@ pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
    - `2_output/step1-extractedpages.ipynb`
    - `2_output/stage2A.ipynb`
    - `2_output/stage_2B.ipynb`
-   - `2_output/stage_3.ipynb` pls add step 4
+   - `2_output/stage3_standardization.py`
+   - `2_output/stage4.ipynb`
 
-3. **Find your tidy output CSV:**  
+3. **Standardized Table:**  
    - `2_output/standardized_merged_by_company/<company>.csv`
 
-4. **Extract Full ESG Disclosure Content**  
-   To retrieve the actual ESG text paragraphs linked to each ESRS code:
-   - Run: `2_output/stage4.ipynb`  
-   - This will generate a file with paragraph-level content for each matched disclosure reference.
-   
+4. **Extracted ESG Disclosure Content:**  
+   - `2_output/extracted_text/<company>_extracted_text_only.txt
 
 
 ## Notebook guide — what each stage does
