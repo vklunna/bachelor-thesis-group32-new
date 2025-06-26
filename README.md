@@ -77,7 +77,7 @@ pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
    - Unifies code strings, parses page refs, fixes headers  
    - **Output:** `2_output/filtered_table/<company>.csv`
 
-4. **`stage3_standardisation.ipynb`**   
+4. **`stage3.ipynb`**   
    - Final column mapping & deeper normalisation  
    - Merges multi-page refs, deduplicates rows, runs consistency checks  
    - **Output:** `2_output/standardized_merged_by_company/<company>.csv`

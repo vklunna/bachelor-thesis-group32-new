@@ -20,7 +20,7 @@ Automates the extraction of ESRS / CSRD cross-reference tables inside annual-rep
 ## Installation (macOS · Python 3.11.5)
 
 ```bash
-git clone https://github.com/vklunna/bachelor-thesis-group32.git do we need new repository name here?
+git clone https://github.com/vklunna/bachelor-thesis-group32-new.git 
 cd bachelor-thesis-group32
 
 python3 -m venv .venv
@@ -48,16 +48,15 @@ pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
    - `2_output/step1-extractedpages.ipynb`
    - `2_output/stage2A.ipynb`
    - `2_output/stage_2B.ipynb`
-   - `2_output/stage_3.ipynb` pls add step 4
+   - `2_output/stage3_standardization.py`
+   - `2_output/stage4.ipynb`
 
-3. **Find your tidy output CSV:**  
+
+3. **Standardized Table:**  
    - `2_output/standardized_merged_by_company/<company>.csv`
 
-4. **(Optional) Extract Full ESG Disclosure Content**  pls do not make it optional 
-   To retrieve the actual ESG text paragraphs linked to each ESRS code:
-   - Run: `2_output/stage4.ipynb`  
-   - This will generate a file with paragraph-level content for each matched disclosure reference.
-   
+4. **Extracted ESG Disclosure Content:**  
+   - `2_output/extracted_text/<company>_extracted_text_only.txt`
 
 
 ## Notebook guide — what each stage does
@@ -78,7 +77,7 @@ pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
    - Unifies code strings, parses page refs, fixes headers  
    - **Output:** `2_output/filtered_table/<company>.csv`
 
-4. **`stage3_standardisation.ipynb`**   
+4. **`stage3.ipynb`**   
    - Final column mapping & deeper normalisation  
    - Merges multi-page refs, deduplicates rows, runs consistency checks  
    - **Output:** `2_output/standardized_merged_by_company/<company>.csv`
