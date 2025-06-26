@@ -37,6 +37,9 @@ pip install -r ./bachelor-thesis-group32-folder/1_code/requirements.txt
 2.	Then run the following script to connect and load the file:
 `python3 ./bachelor-thesis-group32-folder/1_code/LOADING_IN_MEMORY.py`
 
+3. If the user wants to upload new PDF do it in folder 0_data in Drive folder:
+`https://drive.google.com/drive/folders/1SlGQq1n1mqA91433tkVwhBtw8JON6YLH?usp=share_link`
+
 
 
 ## Quick Start
