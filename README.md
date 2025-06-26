@@ -20,7 +20,7 @@ Automates the extraction of ESRS / CSRD cross-reference tables inside annual-rep
 ## Installation (macOS · Python 3.11.5)
 
 ```bash
-git clone https://github.com/vklunna/bachelor-thesis-group32.git do we need new repository name here?
+git clone https://github.com/vklunna/bachelor-thesis-group32-new.git 
 cd bachelor-thesis-group32
 
 python3 -m venv .venv
